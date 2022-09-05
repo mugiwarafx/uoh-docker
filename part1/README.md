@@ -5,5 +5,5 @@ In this part:
 - [x] 3. In-depth dive to images  
 - [x] 4. Defining start conditions for the container  
 - [x] 5. Interacting with the container via volumes and ports  
-- [ ] 6. Utilizing tools from the Registry  
-- [ ] 7. Summary
+- [x] 6. Utilizing tools from the Registry  
+- [x] 7. Summary
